@@ -1,0 +1,4 @@
+- 👋 Welcome to Podlab-labs Repository
+- This will be where I store amd share my homelab experiences and config files for various apps and services
+-  Repositories for docker and docker compose.
+- 📫 How to reach me ... podlab@herron1.net
